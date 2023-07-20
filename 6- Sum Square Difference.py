@@ -12,4 +12,3 @@ difference=(sum_numbers-sum_squares)
 
 print(difference)
 
-

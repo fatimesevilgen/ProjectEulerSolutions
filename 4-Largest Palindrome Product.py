@@ -16,4 +16,3 @@ for i in range(100, 1000):
 
 print("En büyük palindromik sayi:", max_palindrome)
 print("Çarpanlar:", factors)
-

@@ -11,4 +11,3 @@ while True:
     if c>4000000:
         break
 print(sum)
-
